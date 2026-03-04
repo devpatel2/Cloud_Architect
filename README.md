@@ -1,2 +1,2 @@
-Repository is dedicated to Cloud Architect training and project
+Repository is dedicated to Cloud Architect training and projects.
 
